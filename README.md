@@ -15,3 +15,7 @@
 | PFFDST on CIFAR-10 (S=0.95) | `python3 dst.py --dataset cifar10 --sparsity 0.95 --rounds 800 --freeze --epochs 2 --server-readjustment` |
 | PFFDST w/o PF on CIFAR-10 (S=0.95) | `python3 dst.py --dataset cifar10 --sparsity 0.95 --rounds 400 --epochs 3 --server-readjustment` |
 | PFFDST w/o SMR on CIFAR-10 (S=0.95) | `python3 dst.py --dataset cifar10 --sparsity 0.95 --rounds 800 --epochs 3 --freeze` |
+
+
+## Acknowledgements
+This work is developed based on the [FedDST]((https://github.com/bibikar/feddst.git) .
