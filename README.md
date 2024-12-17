@@ -18,4 +18,4 @@
 
 
 ## Acknowledgements
-This work is developed based on the [FedDST]((https://github.com/bibikar/feddst.git) .
+This work is developed based on the [FedDST](https://github.com/bibikar/feddst.git) .
